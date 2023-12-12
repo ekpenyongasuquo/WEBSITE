@@ -1,0 +1,16 @@
+#myCanvas {
+    border: 1px solid black;
+    /* background-color: skyblue; */
+}
+
+#myDiv {
+    width: 1000px;
+    height: 1000px;
+    background-color: lightblue;
+}
+
+#myButton {
+    width: 50px;
+    height: 50px;
+    color: lightblue;
+}
